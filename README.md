@@ -1,2 +1,2 @@
 # ansible01
-Ansible Course Samples
+Official Git Repository for Ansible Course
